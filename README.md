@@ -11,7 +11,7 @@ Why should I care?
 You probably shouldn't. But if you like pretty pictures and stuff then
 this may appeal to you:
 
-![Demo chart](http://github.com/tbielawa/dayz-charts/)
+![Demo chart](https://raw.github.com/tbielawa/dayz-charts/master/images/abutcher-demo.png)
 
 That's it, a line? Peace -- I'm out
 ===================================
