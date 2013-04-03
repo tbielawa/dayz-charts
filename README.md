@@ -82,7 +82,7 @@ SHELL=/bin/bash
 
 * And what of teh sweet pics I promised? As above, ``lame = while
   loop``, ``cool = cron job``. You can update the chart as
-  (pin)frequently as you wish. Here's how to update it every 5 minutes
+  (in)frequently as you wish. Here's how to update it every 5 minutes
   (showing crontab output as if you ran the last step already):
 
 ```
